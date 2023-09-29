@@ -1,0 +1,43 @@
+{
+  "metadatas": [
+    {
+      "id": "1",
+      "title": "title1",
+      "length": 100,
+      "tags": [
+        "Crime",
+        "Drama",
+        "Prison"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "title2",
+      "length": 100,
+      "tags": [
+        "Crime",
+        "Mafia"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "title3",
+      "length": 100,
+      "tags": [
+        "Drama",
+        "Mafia"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "title4",
+      "length": 100,
+      "tags": [
+        "Crime",
+        "Prison",
+        "Crime Family",
+        "Mafia"
+      ]
+    }
+  ]
+}
